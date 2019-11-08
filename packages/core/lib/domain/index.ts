@@ -39,5 +39,4 @@ export class Domain {
      * 获取菜单 根据当前用户所在的岗位[超管跟域管除外]]
      */
     systemSetting(systemCode: string) { }
-
 }
